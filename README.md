@@ -1,4 +1,4 @@
-A simple OIer（Olympiad in Informatics player）。
+A simple OIer（Olympiad in Informatics contestants）, Grade 1 of senior high school.
 
 Education situation：
 
