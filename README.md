@@ -1,9 +1,9 @@
 ## Hi, Calculatelove here! ✨
 
 Once OIer, now ACMer.
-- (2018.09 ~ 2021.06) Study in ***Changle Hangcheng Middle School***.
-- (2021.09 ~ 2024.06) Study in ***Changle No.1 Middle School***.
-- (2024.09 ~ present) Study in ***Fuzhou University***.
+- (2018.09 ~ 2021.06) Studied at ***Changle Hangcheng Middle School***.
+- (2021.09 ~ 2024.06) Studied at <img src="./source/image/clyz-logo.jpg" width="18" alt="clyz-logo"> ***Changle No.1 Middle School***.
+- (2024.09 ~ present) Studying at <img src="./source/image/fzu-logo.png" width="18" alt="fzu-logo"> ***Fuzhou University***.
 
 My Blogs: [cnblogs](https://www.cnblogs.com/cjtcalc) | [CP-Blog](https://calculatelove.github.io/cpblog/)
 
