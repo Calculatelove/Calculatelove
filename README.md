@@ -9,7 +9,7 @@ Once OIer, now ACMer.
   <img
     src="./source/image/clyz-card.svg"
     alt="Fujian Changle No.1 Middle School"
-    width="600"
+    width="550"
   />
 </p>
 
@@ -17,7 +17,7 @@ Once OIer, now ACMer.
   <img
     src="./source/image/fzu-card.svg"
     alt="Fuzhou University"
-    width="600"
+    width="550"
   />
 </p>
 
